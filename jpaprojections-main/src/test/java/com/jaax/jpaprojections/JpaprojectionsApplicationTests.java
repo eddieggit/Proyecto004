@@ -8,6 +8,7 @@ class JpaprojectionsApplicationTests {
 
 	@Test
 	void contextLoads() {
+		fail ("fail with assertion");
 	}
 
 }
